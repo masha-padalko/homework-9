@@ -14,12 +14,6 @@ a {
 }
 
 
-    /* For header, content, footer */
-[class*="container"] {
-    width: 1025px;
-    margin: 0 auto;
-}
-
 .stretch {
     width: 100vw;
     background-color: #c4c4c475;
